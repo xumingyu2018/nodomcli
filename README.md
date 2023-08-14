@@ -8,7 +8,7 @@ nodom-cli 预制了两种开发语言的支持：
 - JavaScript
 - TypeScript
 
-用户可自由选择语言环境。
+用户可自由选择语言环境以及是否选择安装nodom-ui组件库。
 
 ## 使用
 

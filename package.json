@@ -1,6 +1,6 @@
 {
   "name": "nodomcli1",
-  "version": "1.0.8",
+  "version": "1.0.8-beta1",
   "description": "nodom-cli",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,8 @@
   },
   "keywords": [
     "nodom-cli",
-    "nodom"
+    "nodom",
+    "nodom-ui"
   ],
   "author": "xmy",
   "license": "ISC",
