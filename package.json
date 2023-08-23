@@ -1,6 +1,6 @@
 {
   "name": "nodomcli1",
-  "version": "1.0.8-beta5",
+  "version": "1.0.8-beta6",
   "description": "nodom-cli",
   "main": "index.js",
   "bin": {
